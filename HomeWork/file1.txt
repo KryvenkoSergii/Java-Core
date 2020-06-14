@@ -1,0 +1,5 @@
+Name: Vasya
+Birthday year: 1990
+first work: shop assistant; year: 2010
+second work: newspaper agent; year: 2012
+third work: journalist; year: 2015

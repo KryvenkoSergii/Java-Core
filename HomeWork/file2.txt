@@ -1,0 +1,4 @@
+number of lines in file1.txt: 5
+the longest line in file1.txt: second work: newspaper agent; year: 2012
+Name: Vasya
+birthday date: 1990
